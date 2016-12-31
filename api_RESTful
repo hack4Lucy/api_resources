@@ -1,0 +1,30 @@
+## --------------------------------------
+## SOURCE: https://restcountries.eu/
+## --------------------------------------
+
+Get all the countries!
+https://restcountries.eu/rest/v1/all
+Currency
+https://restcountries.eu/rest/v1/currency/eur
+Capital City
+https://restcountries.eu/rest/v1/capital/tallinn
+Calling Code
+https://restcountries.eu/rest/v1/callingcode/7
+Region
+https://restcountries.eu/rest/v1/region/africa
+Sub Region
+https://restcountries.eu/rest/v1/subregion/western asia
+ISO 639-1 Language
+https://restcountries.eu/rest/v1/lang/et
+https://restcountries.eu/rest/v1/lang/no
+Country Code
+https://restcountries.eu/rest/v1/alpha/co
+https://restcountries.eu/rest/v1/alpha/col
+Country Name Substring
+https://restcountries.eu/rest/v1/name/eesti
+https://restcountries.eu/rest/v1/name/estonia
+Country Codes
+https://restcountries.eu/rest/v1/alpha?codes=co;rus;no
+Country Name Full Text
+https://restcountries.eu/rest/v1/name/aruba?fullText=true
+
